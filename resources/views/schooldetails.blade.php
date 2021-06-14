@@ -32,8 +32,8 @@
                 </div>
             </nav>
             <div id="menutendina" class="hidden">
-                <a href="searchschool.php">Cerca scuola</a>
-                <a href="your_school.php">La tua scuola</a>
+                <a href="searchschool">Cerca scuola</a>
+                <a href="your_school">La tua scuola</a>
                 @if(isset($tipo))
                 <a href=valutazione>Voti</a>
                 @endif
